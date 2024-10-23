@@ -9,4 +9,4 @@
     alt="adam-pw" 
     bg_color=#808080/></p>
 
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiq1818&show_icons=true&theme=date_night)
