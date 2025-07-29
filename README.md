@@ -7,12 +7,5 @@
 
 ### Statistical Data :
 
-<p align="center">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiq1818&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faiq1818&show_icons=true&theme=date_night" alt="GitHub stats"/>
-</div>
+![faiq1818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiq1818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![faiq1818's Stats](https://github-readme-stats.vercel.app/api?username=faiq1818&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
