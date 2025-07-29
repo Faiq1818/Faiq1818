@@ -3,7 +3,7 @@
 + Using GNU/Linux(especially NixOS) as a main operating system (in fact I'm not really familiar with Windows stuff).
 + Interested in Frontend, Backend, and Mobile apps development.
 + Familiar with Javascript/Typescript(especially React and React Native).
-+ Learning Rust right now(especially in Backend development)
++ Learning Rust right now(especially in Backend development).
 
 ### Statistical Data :
 
