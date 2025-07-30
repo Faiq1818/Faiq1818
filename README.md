@@ -9,5 +9,8 @@
 
 ### Statistical Data :
 
-![faiq1818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiq1818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![faiq1818's Stats](https://github-readme-stats.vercel.app/api?username=faiq1818&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![faiq1818's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faiq1818&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![image](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![image](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
