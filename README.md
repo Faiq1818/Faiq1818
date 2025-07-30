@@ -1,6 +1,7 @@
 ## Faiq Ghozy Erlangga
 
 + Using GNU/Linux(especially NixOS) as a main operating system (in fact I'm not really familiar with Windows stuff).
++ Really familiar with GNU/Linux ecosystem and tools for development like git, docker, etc.
 + Interested in Frontend, Backend, and Mobile apps development.
 + Familiar with Javascript/Typescript(especially React and React Native).
 + Learning Rust right now(especially in Backend development).
