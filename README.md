@@ -5,6 +5,7 @@
 + Interested in Frontend, Backend, and Mobile apps development.
 + Familiar with Javascript/Typescript(especially React and React Native).
 + Learning Rust right now(especially in Backend development).
++ Maybe someday I'll trying Gentoo Linux...
 
 ### Statistical Data :
 
