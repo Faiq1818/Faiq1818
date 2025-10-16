@@ -4,8 +4,7 @@
 + Really familiar with GNU/Linux ecosystem and tools for development like git, docker, etc.
 + Interested in Frontend, Backend, and Mobile apps development.
 + Familiar with Javascript/Typescript(especially React and React Native).
-+ Learning Rust right now(especially in Backend development).
-+ Kinda interested to desktop app development right now.
++ Learning Rust and Golang right now(especially in Backend development).
 
 ### Statistical Data :
 
