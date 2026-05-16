@@ -4,7 +4,7 @@
 + Mobile FullStack (Heavy Backend)
 + React Native
 + Go, NestJS
-+ Docker/Podman, OpenTelemetry (LGTM Stack)
++ Docker/Podman, CI/CD (Github actions), OpenTelemetry (LGTM Stack)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
