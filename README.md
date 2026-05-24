@@ -3,7 +3,7 @@
 + Using Linux(NixOS) as the main operating system.
 + Mobile FullStack (Heavy Backend)
 + React Native
-+ Go, NestJS
++ Go (stdlib, Gin), NestJS
 + Docker/Podman, CI/CD (Github actions), OpenTelemetry (LGTM Stack)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
